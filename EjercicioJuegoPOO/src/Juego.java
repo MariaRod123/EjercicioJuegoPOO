@@ -42,7 +42,6 @@ public class Juego {
             record=num_vidas;
             System.out.println("Se ha batido el récord. El nuevo récord es: " + record);
         }
-
     }
 
 }
